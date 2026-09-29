@@ -3,7 +3,7 @@ public class Main2 {
     public static void main(String[] args) {
 
         System.out.println("Proyecto de Git y GitHub");
-        System.out.println("Versión alumno B");
+        System.out.println("Versión alumno A");
 
     }
 }
